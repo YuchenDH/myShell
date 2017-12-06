@@ -1,0 +1,4 @@
+env | cat
+env > cat.txt | cat
+env | cat | grep -E "USER"
+env | cat | grep -E "USER" > pipe2_output

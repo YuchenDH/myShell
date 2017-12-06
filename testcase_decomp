@@ -1,0 +1,8 @@
+echo a
+echo  a
+echo  a \ b
+echo a\  b\ c d
+   echo
+   echo \ b
+\ echo \ b
+echo ;;;\  ;;;\ 12;   ;$%^&*

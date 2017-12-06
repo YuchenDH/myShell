@@ -1,0 +1,15 @@
+set 1 abc
+set 2 abc def
+set 3 abc def cde
+echo $1
+echo 1 $1
+echo 1$1
+echo $1 $2 $3
+echo $1 $4
+export 1
+env > myenv.txt
+grep -E "1=" myenv.txt
+set changepath cd /home/yw263/ece551
+pwd
+$changepath
+pwd

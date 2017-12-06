@@ -1,0 +1,4 @@
+ls
+ls > lsout
+cat < lsout
+cat lsout

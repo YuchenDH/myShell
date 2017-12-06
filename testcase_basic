@@ -1,0 +1,9 @@
+git
+basic
+man if
+man   if
+man --help
+cd ..
+cd mp_miniproject
+./myShell < notexist
+./myShell < testcase_redir

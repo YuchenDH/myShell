@@ -1,0 +1,3 @@
+ls
+cat \ d
+asdfasdfasdf

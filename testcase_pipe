@@ -1,0 +1,3 @@
+ls | echo > out
+cat out
+echo this is a test line. | grep -E "."
